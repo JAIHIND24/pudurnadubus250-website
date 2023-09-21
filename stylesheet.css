@@ -1,0 +1,44 @@
+ Bus250{
+    margin: 5rem;
+    padding: 1rem;
+}
+center{
+    font-size: 30px;
+    color: hsla(251, 86%, 47%, 0.986);
+    overflow: auto;
+    background-color: #d3e4dc;
+}
+h1{
+    font-size: 30px;
+    color: hsl(64, 82%, 29%);
+    overflow: auto;
+   
+}   
+h2{
+    font-size: 30px;
+    color: hsla(124, 83%, 44%, 0.795);
+    overflow: auto;
+}
+p{
+    font-size: 30px;
+    color: hwb(132 7% 13%);
+    overflow: auto; 
+}
+ul{
+    overflow: hidden;
+    background-image: ;
+    
+}
+ul li{
+    float: left;
+    font-size: 19px;
+    color: #159a29;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.lia{
+    text-decoration: none;
+    color: aqua;
+}
